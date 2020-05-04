@@ -1,1 +1,0 @@
-A simple python application bear in mind that this is my first "project" at all using python ,postgresql and object oriented programming approach. I am learning coding so if you have any advice please feel free to share with me especially about the structure wich i am sure is not the best.
